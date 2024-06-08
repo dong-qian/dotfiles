@@ -31,7 +31,7 @@ autoload -Uz compinit && compinit
 zinit cdreplay -q
 
 # Theme
-eval "$(oh-my-posh init zsh --config $HOME/.config/ohmyposh/zen.toml)"
+eval "$(oh-my-posh init zsh --config $HOME/.config/ohmyposh/tokyonight_storm.omp.json)"
 
 # Keybindings
 bindkey -e
